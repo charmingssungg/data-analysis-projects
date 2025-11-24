@@ -20,5 +20,5 @@
 - [Project 10: Safety Index Advanced (PDF)](project_10_safety_index_advanced.pdf)  
   도시 안전지표 고도화를 위한 데이터 분석 보고서
 
-- [nps_youtube (PPT)](nps_youtube.pptx)  
+- [nps_youtube (PDF)](nps_youtube.pdf)  
   국민연금공단 산학협력 프로젝트
